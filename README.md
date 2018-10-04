@@ -1,5 +1,5 @@
 Hello my name syauqi,
-I'm mak some tools for me and you. 
+I'm make some tools for me and you. 
 My skills are broad: from ux to design, front end to back end development. 
 I enjoy each aspect, and love make web & extension apps from start to finish, for you all.
 
