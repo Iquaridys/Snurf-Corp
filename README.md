@@ -1,6 +1,6 @@
-Hello my name syauqi,
+Hello my name syauqi im beginer developer,
 I'm make some tools for me and you. 
-My skills are broad: from ux to design, front end to back end development. 
+My skills are broad: from front end to back end development. 
 I enjoy each aspect, and love make web & extension apps from start to finish, for you all.
 
 What I do
@@ -9,14 +9,15 @@ CSS3, Javascript, React
 Back-end
 NodeJS, PHP, APIs
 CMS
-Drupal, Wordpress
+Wordpress
 Apps
 Mobile, React Native
-Cloud
-AWS, Google, Firebase
-E-Commerce
-Woocommerce, Shopify, Magento, Drupal Commerce
 
 in here,
 We learn, we make, we do, we share and drink some coffee :D
+
+Donate:
+https://paypal.me/YusronSyauqi
+
+
 
