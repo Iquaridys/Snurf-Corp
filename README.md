@@ -20,4 +20,7 @@ Donate:
 https://paypal.me/YusronSyauqi
 
 
+My app's Chrome : 
 
+Pinterest : - tiny.cc/pinterestplus
+Whatsapp  : - tiny.cc/bulkwa
