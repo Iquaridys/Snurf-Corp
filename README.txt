@@ -17,3 +17,5 @@ My app's Chrome :
 
 Pinterest : - tiny.cc/pinterestplus
 Whatsapp  : - tiny.cc/bulkwa
+            - tiny.cc/bulkwa
+
