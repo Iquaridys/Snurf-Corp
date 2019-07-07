@@ -18,4 +18,4 @@ My app's Chrome :
 Pinterest : - tiny.cc/pinterestplus
 Whatsapp  : - tiny.cc/bulkwa
             - tiny.cc/waechan
-Google    : - tiny.cc/goldenkeyword
+SEO       : - tiny.cc/goldenkeyword
