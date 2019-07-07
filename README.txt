@@ -13,9 +13,6 @@ Contact :
 wa.me/628977960450
 syauqidirgantara@gmail.com
 
-My app's Chrome : 
-
-Pinterest : - tiny.cc/pinterestplus
-Whatsapp  : - tiny.cc/bulkwa
-            - tiny.cc/waechan
-SEO       : - tiny.cc/goldenkeyword
+My app's Chrome :
+- tiny.cc/pinterestplus
+- tiny.cc/goldenkeyword
