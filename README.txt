@@ -15,4 +15,4 @@ syauqidirgantara@gmail.com
 
 My app's Chrome :
 - tiny.cc/pinterestplus
-- tiny.cc/goldenkeyword
+
