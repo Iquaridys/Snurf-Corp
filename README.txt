@@ -11,5 +11,5 @@ My app's Chrome :
 - https://tiny.cc/goldenkeyword
 
 https://wa.me/628977960450
-paypal.me/YusronSyauqi
+https://paypal.me/YusronSyauqi
 syauqidirgantara@gmail.com
