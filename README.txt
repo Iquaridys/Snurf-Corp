@@ -6,13 +6,10 @@ I enjoy each aspect, and love make web & extension apps from start to finish, fo
 in here,
 We learn, we make, we do, we share and drink some coffee :D
 
-Donate:
-https://paypal.me/YusronSyauqi
-
-Contact : 
-wa.me/628977960450
-syauqidirgantara@gmail.com
-
 My app's Chrome :
-- tiny.cc/pinterestplus
+- https://tiny.cc/pinterestplus
+- https://tiny.cc/goldenkeyword
 
+https://wa.me/628977960450
+paypal.me/YusronSyauqi
+syauqidirgantara@gmail.com
