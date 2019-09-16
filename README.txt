@@ -10,6 +10,8 @@ My app's Chrome :
 - https://tiny.cc/pinterestplus
 - https://tiny.cc/goldenkeyword
 
-https://wa.me/628977960450
+Donate:
 https://paypal.me/YusronSyauqi
-syauqidirgantara@gmail.com
+
+Ask | Request:
+https://wa.me/628977960450 or mail me syauqidirgantara@gmail.com
