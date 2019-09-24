@@ -14,4 +14,4 @@ Donate:
 https://paypal.me/YusronSyauqi
 
 Ask | Request:
-https://wa.me/628977960450 or mail me syauqidirgantara@gmail.com
+https://wa.me/628977960450
