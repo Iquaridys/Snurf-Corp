@@ -1,17 +1,21 @@
 Hello my name syauqi im beginer developer,
-I'm make some tools for me and you. 
-My skills are back end development. 
-I enjoy each aspect, and love make web & extension apps from start to finish, for you all.
+I enjoy each aspect, and love make app, tools and of course money.
 
 in here,
-We learn, we make, we do, we share and drink some coffee :D
+We learn, we do, we make, we share and drink some coffee :D
 
 My app's Chrome :
 - https://tiny.cc/pinterestplus
-- https://tiny.cc/goldenkeyword
+- https://tiny.cc/bulkwa
+- https://tiny.cc/waechan
+etc 
 
 Donate:
 https://paypal.me/YusronSyauqi
 
 Ask | Request:
 https://wa.me/628977960450
+
+I know you are smart, I know you like looking for gaps. But I beg you to respect me and help me by not stealing or duplicating my application.
+you can make it, you can steal my idea but don't steal my code or application.
+thank you.
