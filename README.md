@@ -11,7 +11,7 @@ My app's Chrome :
 etc 
 
 Ask | Request:
-t.me/praybuilder
+https://t.me/praybuilder
 
 Donate:
 https://paypal.me/YusronSyauqi
