@@ -16,6 +16,6 @@ https://t.me/praybuilder
 Donate:
 https://paypal.me/YusronSyauqi
 
-I know you are smart, I know you like looking for gaps. But I beg you to respect me and help me by not stealing or duplicating my application.
-you can make it, you can steal my idea but don't steal my code or application.
+I know you are smart. But I beg you to respect me and help me by not stealing or duplicating my application.
+you can make it, you can steal my idea but don't steal my code or application without my permission.
 thank you.
